@@ -8,6 +8,6 @@ support_discord 'https://discord.gg/VZ5YVh9fxC'
 
  
 shared_script "config.lua"
-client_scripts "client.lua"
+client_script "client.lua"
 server_script "server.lua"
 
